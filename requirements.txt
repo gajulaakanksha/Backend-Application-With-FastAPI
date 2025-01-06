@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+beautifulsoup4
+httpx
+PyPDF2
+sentence-transformers
+numpy
+python-multipart
